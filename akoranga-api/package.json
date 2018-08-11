@@ -1,0 +1,35 @@
+{
+  "name": "akoranga-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server"
+  },
+  "private": true,
+  "keywords": [],
+  "author": "Kevin Isom<kevin.isom@gmail.com>",
+  "license": "Commercial",
+  "dependencies": {
+    "bell": "^9.1.0",
+    "blipp": "^3.0.0",
+    "boom": "^7.2.0",
+    "creature-features": "^2.1.2",
+    "good": "^8.1.0",
+    "hapi": "^17.2.1",
+    "hapi-api-version": "^2.0.0",
+    "hapi-auth-cookie": "^8.1.0",
+    "hapi-router": "^4.0.0",
+    "hapijs-status-monitor": "^0.6.0",
+    "inert": "^5.1.0",
+    "joi": "^13.1.2",
+    "vision": "^5.3.1",
+    "xtconf": "^2.0.0"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "jest-cli": "^22.4.2",
+    "nodemon": "^1.17.1"
+  }
+}
