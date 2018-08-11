@@ -1,6 +1,0 @@
-{
-  "prettier.arrowParens": "always",
-  "prettier.singleQuote": true,
-  "prettier.semi": false,
-  "editor.formatOnSave": true
-}
